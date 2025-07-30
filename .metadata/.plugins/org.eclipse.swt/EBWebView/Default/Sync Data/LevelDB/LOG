@@ -1,2 +1,3 @@
-2025/07/30-15:08:13.394 750 Creating DB C:\Users\AASMA AKHTAR\eclipse-workspace-aasmaakhtar-lab\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2025/07/30-15:08:13.416 750 Reusing MANIFEST C:\Users\AASMA AKHTAR\eclipse-workspace-aasmaakhtar-lab\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/07/30-16:52:03.312 198 Reusing MANIFEST C:\Users\AASMA AKHTAR\eclipse-workspace-aasmaakhtar-lab\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/07/30-16:52:03.314 198 Recovering log #3
+2025/07/30-16:52:03.314 198 Reusing old log C:\Users\AASMA AKHTAR\eclipse-workspace-aasmaakhtar-lab\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
