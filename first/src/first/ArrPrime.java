@@ -26,7 +26,6 @@ public class ArrPrime {
 			}
 			
 		}
-		int [] p=new int[g];
 		for(int i=s;i<e;i++) {
 			int c=0;
 
