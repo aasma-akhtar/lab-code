@@ -1,8 +1,13 @@
 package first;
+import java.util.Scanner;
 public class StringNum {
 	public static void main(String[] args) {
-		String[] s1={"Aas9ma"};
-		String[] s2={"Akh6tar"};
+		Scanner sc=new Scanner(System.in);
+        System.out.println("Enter first name and surname:");
+		String[] s1=new String[1];
+		String[] s2=new String[1];
+		s1[0]=sc.nextLine();
+		s2[0]=sc.nextLine();
 		int l1=s1[0].length();
 		int l2=s2[0].length(); 
 		char ch;
@@ -27,5 +32,6 @@ public class StringNum {
 			}
 		}
 		System.out.println("Sum="+(n1+n2));
+		sc.close();
 	}
 }
