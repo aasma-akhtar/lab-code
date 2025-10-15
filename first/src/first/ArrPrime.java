@@ -12,7 +12,6 @@ public class ArrPrime {
 		e=sc.nextInt();
 		int [] a=new int[e-s];
 		int d=0;
-		int g=0;
 		for(int i=s;i<e;i++) {
 			int c=0;
 
@@ -20,9 +19,6 @@ public class ArrPrime {
 				if(i%j==0) {
 					c=c+1;
 				}
-			}
-			if(c==0) {
-				g++;
 			}
 			
 		}
